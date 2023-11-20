@@ -1,16 +1,9 @@
-# todo_app
+# TODO App
 
-A new Flutter project.
+screenshots
 
-## Getting Started
+![WhatsApp Image 2023-11-20 at 8 21 23 AM](https://github.com/kasim121/todo_mvc_application/assets/53419295/a5b5ee8b-71dd-4156-961a-080f420e88c0)
 
-This project is a starting point for a Flutter application.
+![WhatsApp Image 2023-11-20 at 8 21 23 AM (1)](https://github.com/kasim121/todo_mvc_application/assets/53419295/ef3fb21f-8f7f-4ea8-9438-ab41f1bcf1c5)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2023-11-20 at 8 21 22 AM](https://github.com/kasim121/todo_mvc_application/assets/53419295/7681bb0b-2a29-4fff-806c-17541f093330)
